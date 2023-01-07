@@ -1,4 +1,6 @@
-import './App.css';
+import "./App.css";
+import TopBar from "./TopBar";
+("./TopBar");
 
 function App() {
   return (
